@@ -1,3 +1,7 @@
+此库效果不佳，请使用https://github.com/sunguowei/residemenu
+
+
+
 #AndroidResideMenu
 ------
 ### 中文说明请点击 [这里][1]
